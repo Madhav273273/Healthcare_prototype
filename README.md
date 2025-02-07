@@ -65,4 +65,4 @@ This project is confidential property of UnidemyGlobal under the  **MIT License*
 
 ---
 **Author:** Unidemy Global 
-**GitHub Repository:** [\[Link to Repo\]](https://github.com/Unidemy-Global/EmbededSystems)
+**GitHub Repository:** (https://github.com/Unidemy-Global/EmbededSystems)
