@@ -3,7 +3,7 @@
 #include "MAX30100_PulseOximeter.h"
 #include <U8g2lib.h>
 #include <OneWire.h>
-#include <DallasTemperature.h>
+#include <DallasTemperature.h>.
 
 // *Wi-Fi Configuration*
 const char* ssid = "ZTE_2.4G_6SDbuZ";         // Replace with your Wi-Fi SSID
